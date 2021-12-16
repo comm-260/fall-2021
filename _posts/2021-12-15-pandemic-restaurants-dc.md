@@ -3,7 +3,7 @@ layout: post
 title:  "For DC Restaurants, the Pandemic Persists"
 date:   2021-12-14 20:44:00
 categories: final
-img: closed-sign.jpeg
+img: Closed-Sign.jpeg
 author: Eli LeRoy 
 categories: [one]
 ---
