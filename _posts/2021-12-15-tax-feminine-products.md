@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "More Tax and Less Pay"
-date:   2021-12-07 18:45:00
+date:   2021-12-14 20:43:00
 categories: map
 img: pink.jpg
 author: Aline Behar Kado

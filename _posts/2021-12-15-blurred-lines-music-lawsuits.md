@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blurred Lines when it comes to musical ownership"
-date: 2021-12-14 18:45:00 
+date: 2021-12-14 20:41:00 
 categories: final
 img: taylor.png
 author: Eliza DuBose

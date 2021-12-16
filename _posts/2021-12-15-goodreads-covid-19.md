@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Good for Goodreads: Reading Grows in Popularity amid COVID-19 Pandemic"
-date: 2021-12-14 18:45:00 
+date: 2021-12-14 20:45:00 
 categories: final
 img: scatterbooks.png
 author: Sarah Cucchiara

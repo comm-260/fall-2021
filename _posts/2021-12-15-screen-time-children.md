@@ -16,9 +16,13 @@ For good or bad reasons, there is no doubt that children have become more depend
 
 As the threat of COVID-19 became evident in early 2020, all schools across decided to close their doors, go online, and force children to spend even more time behind a screen. Some schools offered a hybrid model of learning, which still required a great uptick in hours spent online by children. People leaned more toward an all in person and hybrid method of learning.
 
-[VIZ 1] https://datawrapper.dwcdn.net/eX71Q/1/
+<iframe title="5 Highest Populated Counties in VA Learning Modes, 2020 " aria-label="Map" id="datawrapper-chart-eX71Q" src="https://datawrapper.dwcdn.net/eX71Q/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="465"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
 
-[VIZ 2] https://datawrapper.dwcdn.net/qoH2K/1/
+
+ 
+
+<iframe title="5 Highest Populated Counties in VA Learning Modes, 2020 " aria-label="Map" id="datawrapper-chart-eX71Q" src="https://datawrapper.dwcdn.net/eX71Q/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="465"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+
 
 As a result, screen time amongst teenagers and those aged 13 and under doubled from what it was pre-pandemic. For teens and older kids, lockdown meant missing in person school socialising with friends, and iconic high school memories they will never make up. Those aged 14 through 17 who spent more than four hours a day online skyrocketed from 32% to 62% in the post-pandemic world. However, for younger children, being forced to spend this time isolated meant a lack of face-to-face experiences that are critical for growth and development. When asked to speak about the topic, Veronica Chirlin, Interim Administrator at the American University Child Development Center stated, Ò[Carers] need to put in the time and the child can grow and develop in a positive environment. The pandemic took some of that time away from young growing brains, and it changed the kinds of interactions kids had with their parents and families. It changed how often young kids saw the people around them staring at screens, and not at them or other real peopleÓ It is a new world post-pandemic and these kids are not suited for it after spending what could be the majority of their life behind a screen. She continues, ÒKids are entering the classroom having had vastly different experiences in how much they were socialized or ignored for several months or longer, and how much screen time they have had on a regular basis. It is always possible to get back on the right track to less screen time, and less is better. But, there is no shortcut. It requires putting in the face-to-face quality time and interacting with young children with undivided attention.Ó Realizing that being online for upwards hours in the day affects the development of a young child is just scratching the surface of how the next generation is being affected emotionally and psychologically by their reliance on technology.
 
@@ -26,13 +30,21 @@ There are plenty of potential harmful effects that stem from too much screen tim
 
 [VIZ 3]
 
-https://www.canva.com/design/DAEx5vR3J1M/282uES5vNfwpV\_N4K7ctgw/view?utm\_content=DAEx5vR3J1M&utm\_campaign=designshare&utm\_medium=link&utm\_source=sharebutton
+<div style="position: relative; width: 100%; height: 0; padding-top: 75.0000%;
+ padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEx5vR3J1M&#x2F;view?embed">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEx5vR3J1M&#x2F;view?utm_content=DAEx5vR3J1M&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">detriments of excess screen time in children</a>
 
 The most concerning hazard however, is how screen time will affect children mentally.
 
 The trauma of the pandemic led children to all different types of mental health services.
 
-[VIZ 4] https://datawrapper.dwcdn.net/cDarH/1/
+<iframe title="D.C. Mental Health Services 2021" aria-label="Donut Chart" id="datawrapper-chart-cDarH" src="https://datawrapper.dwcdn.net/cDarH/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="596"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+
 
 The most popular types were ÒFunctional Family TherapyÓ and ÒTransition into IndependenceÓ. These categories are no surprise taking into consideration the types of stress the pandemic ensued in children from having to spend all time at home with their family. It makes sense that they now struggle with family issues and independence. It is likely also that parents' reliance on technology for raising their children, added to this stress. Lauren Muldowney, 23 year old teaching assistant at Twin Oaks Country Day School stated, ÒEven punishments typically surround the use of a screen. Getting it taken away or getting screen time as a reward/ bribery. Also, especially during COVID...screen time increased significantly. As a result of COVID, a lot of parents are now seen working at home and it's just easier to stick a child in front of a screen while a parent is busy working. It's like a free babysitter.Ó It is clear to see that there is a correlation between an increase in children's reported mental health issues and time spent inside and therefore online. Children are aware of the mental health issues that technology is arising. This can be seen in how the same group of 12-13 as mentioned earlier in the story, also stated how they believe that social media is plummeting their self-confidence and how they are upset by frequent sightings of cyberbullying. It is undeniable that mental health issues arise when children are faced with ample time online. Spending time outside with face to face interaction is not necessarily preferred by children, however, it is extremely important in order to better raise a happy, healthy, confident and well-rounded child.
 

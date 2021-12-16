@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The COVID-19 pandemic contributed to a rise in anxiety among young adults"
-date: 2021-12-14 18:45:00 
+date:   2021-12-14 20:35:00
 categories: final
 img: anxiety.png
 author: Riley Gillis
